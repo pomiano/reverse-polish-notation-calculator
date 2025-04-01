@@ -1,5 +1,6 @@
 
-# ONP Calculator (A&DS)
+# RPN Calculator
+
 
 ## Project Description
 
